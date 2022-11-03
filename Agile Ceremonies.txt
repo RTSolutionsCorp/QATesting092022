@@ -1,0 +1,117 @@
+Agile Ceremonies
+
+Backlog: 
+A place holder where we keep all the raw ideas. 
+100 User Stories
+
+
+Release Backlog:
+4 Releases
+
+
+Release 1 (15 Weeks) - In Porgress
+
+Sprint 1 (2-3 Weeks)
+5 User Stories
+
+Sprint Planning:
+You talk about who is going to work on which user story
+We define the user story tasks
+We clarify any acceptance criteria
+We Clarify any questions 
+We adjust/assign user story points
+
+Daily StandUp/ Scrum Meeting:
+What we did yesterdat
+What we are going to do today
+If there is any issue
+
+Sprint Review Meeting:
+How the entire sprint is going
+Are we on the clock/schedule 
+Do we need to move out any user story
+Or Do we need to bring in any user story
+Is there any surprises
+Workload
+
+Sprint Grooming:
+Discuss the user story details
+Define user story acceptance criteria
+Priority
+
+
+Sprint Demo: (Usually happend in the last day of the sprint/Or the day before sprint ends)
+Everyone shows the demo in front of the entire team
+
+
+Sprint Restrospective: (Happens in the last day)
+What went well
+What did not go so well
+How can we improve
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+
+Sprint 2 (2-3 Weeks)
+5 User Stories
+
+Sprint Planning:
+You talk about who is going to work on which user story
+We define the user story tasks
+We clarify any acceptance criteria
+We Clarify any questions 
+We adjust/assign user story points
+
+Daily StandUp/ Scrum Meeting:
+What we did yesterdat
+What we are going to do today
+If there is any issue
+
+Sprint Review Meeting:
+How the entire sprint is going
+Are we on the clock/schedule 
+Do we need to move out any user story
+Or Do we need to bring in any user story
+Is there any surprises
+Workload
+
+Sprint Grooming:
+Discuss the user story details
+Define user story acceptance criteria
+Priority
+
+
+Sprint Demo: (Usually happend in the last day of the sprint/Or the day before sprint ends)
+Everyone shows the demo in front of the entire team
+
+
+Sprint Restrospective: (Happens in the last day)
+What went well
+What did not go so well
+How can we improve
+
+
+Sprint 3 (2-3 Weeks)
+5 User Stories
+
+
+Sprint 4 (2-3 Weeks)
+5 User Stories
+
+
+Sprint 5 (2-3 Weeks)
+5 User Stories
+---------------------------------------------------
+Release 2
+
+---------------------------------------------------
+Release 3
+
+---------------------------------------------------
+Release 4
+
+Releases 5 and 6
+
+
+
