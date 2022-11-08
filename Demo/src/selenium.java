@@ -18,7 +18,7 @@ public class selenium {
     driver.get("https://demoqa.com/elements");
   
 
-    //Mazimize current window
+    //Maximize current window
     driver.manage().window().maximize();
     
     //Delay execution for 5 seconds to view the maximize operation
@@ -38,6 +38,29 @@ public class selenium {
    // driver.findElement(By.cssSelector("input#userName")).sendKeys("First Name"); //By ID Syntax tagname#id
    // driver.findElement(By.cssSelector("input[placeholder='name@example.com']")).sendKeys("myemail@email.com");  //Generic Syntax tagname[attribute='value']
     //driver.findElement(By.cssSelector("#currentAddress")).sendKeys("My Address");
+    
+    
+    
+	/*
+	 * Css Selector 
+	 * 
+	 * classname -> tagname.classname id -> tagname#id
+	 * tagname[attribute='value'] tagname[attribute='value']:nth-child(indexvalue)
+	 * parenttagname childtagname[indexvalue] 
+	 * Console: $('cssLocator')
+	 * Regex: tagname[attribute*='value']
+	 * 
+	 * 
+	 * 
+	 * xpath
+	 * 
+	 * //tagname[@attribute='value'] //tagname[@attribute='value'][indexvalue]
+	 * //parenttagname/childtagname[indexvalue] 
+	 * Console:$x('tagname[@attribute="value"]')
+	 * Regex:  tagname[contains(@attribute,'value')]
+	 */
+    
+    
     
     //Thread.sleep(2000);
    // driver.navigate().refresh();
