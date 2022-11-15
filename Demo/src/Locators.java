@@ -20,6 +20,7 @@ public class Locators {
 	           
 	    //Navigate to a website
 	    driver.get("https://rahulshettyacademy.com/AutomationPractice/");
+	    //https://demoqa.com/elements
 	  
 
 	    //Maximize current window
