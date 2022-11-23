@@ -1,4 +1,4 @@
-package classobjectmethod;
+package classobjectconstructor.classobjectmethod;
 
 public class World {//class can have only public and default keywords.modifiers
     /*

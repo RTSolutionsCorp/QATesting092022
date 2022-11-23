@@ -1,4 +1,4 @@
-package classobjectmethod;
+package classobjectconstructor.classobjectmethod;
 
 public class Hello {
     public static void main(String[] args) {
