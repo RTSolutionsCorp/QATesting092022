@@ -67,49 +67,68 @@ package classobjectconstructor;
 // Java code to illustrate order of
 // execution of constructors, static
 // and initialization blocks
-class GFG {
+ class ABC {
 
-    static
+    int i = 2;
+/*    static
     {
+        i=10;
         System.out.println("1st static init");
-    }
-    static
-    {
-        System.out.println("2nd static init");
-    }
+    }*/
 
 
-
-    {
+/*    {
+        i=15;
         System.out.println("1st instance init");
     }
     {
+        this.i=30;
         System.out.println("2nd instance init");
+    }*/
+
+
+
+ /*   static
+    {
+        i=20;
+        System.out.println("2nd static init");
     }
+*/
+
+
+    final void updateData(int y){
+        i = y;
+    }
+
+}
+
+class GFG extends ABC
+{
+
+/*    void updateData(int y){
+        i = i + y;
+    }*/
 
     GFG()
     {
-        System.out.println("No  argument constructor");
+        //i=10;
+        System.out.println("No  argument constructor" );
     }
 
-
-    GFG(int x)
+/*    GFG(int x)
     {
+        //i=x;
         System.out.println("ONE argument constructor");
-    }
-
-
-
-
-
-
-
-
-
+    }*/
     public static void main(String[] args)
     {
-        new GFG();
-        new GFG(8);
+        GFG huda = new GFG();
+        huda.updateData(10);
+        System.out.println(huda.i); //8
+        //huda.updateData(10);
+        GFG debasis = new GFG();
+        debasis.updateData(20);
+        System.out.println(debasis.i); //30
     }
-}
 
+}
